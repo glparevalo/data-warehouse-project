@@ -37,3 +37,6 @@ This project demonstrates how to build a scalable and optimized **Data Warehouse
 
 - **Fact Table:** `fact_sales`
 - **Dimensions:** `dim_customer`, `dim_products`
+
+## 📄 License
+This project is licensed under the MIT License.
