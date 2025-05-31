@@ -31,9 +31,7 @@ This project demonstrates how to build a scalable and optimized **Data Warehouse
 
 ### Star Schema
 
-+---------------+    +------------+    +--------------+ 
-| dim_customers |----| fact_sales |----| dim_products |
-+---------------+    +------------+    +--------------+
+[dim_customers] ---- [fact_sales] ---- [dim_products]
 
 - **Fact Table:** `fact_sales`
 - **Dimensions:** `dim_customer`, `dim_products`
