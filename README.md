@@ -39,4 +39,4 @@ This project demonstrates how to build a scalable and optimized **Data Warehouse
 This project is licensed under the MIT License.
 
 ## Credits
-Special thanks to Baraa Balzini for his valuable help guiding this project.
+Special thanks to Baraa Salkini for his valuable help guiding this project.
