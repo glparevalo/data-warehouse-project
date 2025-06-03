@@ -36,7 +36,10 @@ This project demonstrates how to build a scalable and optimized **Data Warehouse
 - **Dimensions:** `dim_customer`, `dim_products`
 
 ## 📄 License
+
 This project is licensed under the MIT License.
 
-## Credits
-Special thanks to Baraa Salkini for his valuable help guiding this project.
+It includes code from SQL Data Warehouse Project by Baraa Salkini, also under the MIT License.  
+See LICENSE file for details.
+
+
