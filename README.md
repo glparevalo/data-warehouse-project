@@ -1,13 +1,12 @@
 # 📦 Data Warehouse Project
 
-> A robust SQL Server-based Data Warehouse solution designed for efficient ETL, modern data modeling, and data analysis. 
+> A robust SQL Server-based Data Warehouse solution designed for efficient ETL, modern data modeling, and data analysis of a Customer Sales Dataset. 
 
 ---
 
 ## 🔍 Project Overview
 
-This project demonstrates how to build a scalable and optimized **Data Warehouse using SQL Server**. It integrates data from multiple sources, applies transformations, and supports advanced analytical queries for reporting. This is a guided project with the help of Baraa Balzini.
-
+This project demonstrates how to build a scalable and optimized **Data Warehouse using SQL Server**. It integrates data from multiple sources, applies transformations, and supports advanced analytical queries for reporting.
 
 ## 📚 Table of Contents
 
@@ -38,3 +37,6 @@ This project demonstrates how to build a scalable and optimized **Data Warehouse
 
 ## 📄 License
 This project is licensed under the MIT License.
+
+## Credits
+Special thanks to Baraa Balzini for his valuable help guiding this project.
